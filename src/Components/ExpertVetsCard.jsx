@@ -16,7 +16,7 @@ const ExpertVetsCard = () => {
         <div className='flex justify-center mx-auto my-10'>
             <div className='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-10 gap-y-10'>
 
-                <div className="card w-full bg-[#FFF7ED] shadow-lg p-6 rounded-lg hover:shadow-2xl transition-shadow duration-300">
+                <div className="card w-full bg-[#FFF7ED] shadow-lg px-6 py-6 rounded-lg hover:shadow-2xl transition-shadow duration-300">
                     <div className="card-body">
                         <span className="badge badge-xs bg-[#E59560] text-white">Top Vet 2024</span>
                         <h2 className="text-2xl font-bold mt-2 text-[#1E293B]">Dr. Sarah Thompson</h2>
@@ -47,7 +47,7 @@ const ExpertVetsCard = () => {
                         <span className="badge badge-xs bg-[#E59560] text-white">Nutrition Specialist</span>
                         <h2 className="text-2xl font-bold mt-2 text-[#1E293B]">Dr. Emily Clark</h2>
                         <ul className="mt-6 flex flex-col gap-2 text-sm text-[#2E3A2E]">
-                            <li>✅ 8 years of experience</li>
+                            <li>✅ 15 years of experience</li>
                             <li>✅ Availability: Tue-Sun 11am-7pm</li>
                             <li>✅ Location: Chicago, USA</li>
                             <li>✅ Contact: emily@vetclinic.com</li>
@@ -61,7 +61,7 @@ const ExpertVetsCard = () => {
                         <h2 className="text-2xl font-bold mt-2 text-[#1E293B]">Dr. Michael Scott</h2>
                         <ul className="mt-6 flex flex-col gap-2 text-sm text-[#2E3A2E]">
                             <li>✅ 9 years of experience</li>
-                            <li>✅ Availability: Mon-Fri 9am-4pm</li>
+                            <li>✅ Availability: Mon-Fri 9am-5pm</li>
                             <li>✅ Location: Seattle, USA</li>
                             <li>✅ Contact: michael@vetclinic.com</li>
                         </ul>
