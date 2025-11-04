@@ -16,7 +16,7 @@ const ErrorPage = () => {
                 <FaExclamationTriangle className="text-6xl text-red-500 mb-6 animate-pulse" />
                 <h1 className="text-5xl font-bold text-gray-800 mb-3">Oops! Page Not Found</h1>
                 <p className="text-gray-500 text-lg mb-8">
-                    The page you’re looking for doesn’t exist or has been moved.
+                    The page you're looking for doesn't exist or has been moved.
                 </p>
                 <Link
                     to="/home"
