@@ -1,0 +1,62 @@
+[
+  {
+    "tipId": 1,
+    "title": "Keep Your Pets Warm Indoors",
+    "description": "Make sure your pets have a cozy place inside with blankets or pet beds away from drafts."
+  },
+  {
+    "tipId": 2,
+    "title": "Use Pet Sweaters",
+    "description": "Dress your pets in warm sweaters or coats, especially small or short-haired breeds."
+  },
+  {
+    "tipId": 3,
+    "title": "Limit Outdoor Time",
+    "description": "Reduce the time your pets spend outside in cold weather to prevent hypothermia."
+  },
+  {
+    "tipId": 4,
+    "title": "Protect Paws from Ice and Salt",
+    "description": "Use pet booties or paw balm to protect their paws from ice, salt, and frostbite."
+  },
+  {
+    "tipId": 5,
+    "title": "Check for Frostbite",
+    "description": "Examine ears, tails, and paws regularly for signs of frostbite or cold injury."
+  },
+  {
+    "tipId": 6,
+    "title": "Keep Pets Hydrated",
+    "description": "Provide fresh water daily as pets can get dehydrated even in winter."
+  },
+  {
+    "tipId": 7,
+    "title": "Adjust Diet if Needed",
+    "description": "Consult your vet about adding extra calories if your pet is more active outside."
+  },
+  {
+    "tipId": 8,
+    "title": "Provide Heated Beds",
+    "description": "Use heated pads or beds for elderly or sick pets to keep them warm."
+  },
+  {
+    "tipId": 9,
+    "title": "Grooming in Winter",
+    "description": "Keep fur clean and brushed, but don’t shave pets too short during winter."
+  },
+  {
+    "tipId": 10,
+    "title": "Be Careful on Ice",
+    "description": "Supervise pets on icy surfaces to prevent slips and injuries."
+  },
+  {
+    "tipId": 11,
+    "title": "Keep Them Active Indoors",
+    "description": "Provide toys and playtime inside to maintain physical and mental health."
+  },
+  {
+    "tipId": 12,
+    "title": "Regular Vet Checkups",
+    "description": "Winter stress can affect pets’ health, so regular checkups are important."
+  }
+]

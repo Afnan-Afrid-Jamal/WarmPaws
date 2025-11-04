@@ -1,0 +1,122 @@
+[
+  {
+    "serviceId": 1,
+    "serviceName": "Winter Coat Fitting for Dogs",
+    "providerName": "PawCare Studio",
+    "providerEmail": "info@pawcare.com",
+    "price": 25,
+    "rating": 4,
+    "slotsAvailable": 4,
+    "description": "Custom coat fitting and warm outfit options to keep your dog comfortable in the cold.",
+    "image": "https://i.ibb.co.com/X6L554P/id1.jpg",
+    "category": "Clothing"
+  },
+  {
+    "serviceId": 2,
+    "serviceName": "Winter Grooming & Paw Treatment",
+    "providerName": "CozyPets Grooming",
+    "providerEmail": "hello@cozypets.com",
+    "price": 30,
+    "rating": 5,
+    "slotsAvailable": 3,
+    "description": "Professional grooming with moisturizing paw balm and winter-safe shampoo.",
+    "image": "https://i.ibb.co.com/0phvkJ5Q/id2.jpg",
+    "category": "Grooming"
+  },
+  {
+    "serviceId": 3,
+    "serviceName": "Heated Pet Bed Setup",
+    "providerName": "WarmWhiskers Care",
+    "providerEmail": "contact@warmwhiskers.com",
+    "price": 40,
+    "rating": 5,
+    "slotsAvailable": 5,
+    "description": "Provide your pet with a cozy heated bed for extra comfort during chilly nights.",
+    "image": "https://i.ibb.co.com/C3SfbPs1/id3.jpg",
+    "category": "Comfort"
+  },
+  {
+    "serviceId": 4,
+    "serviceName": "Pet Winter Health Check-up",
+    "providerName": "VetCare Clinic",
+    "providerEmail": "vet@vetcare.com",
+    "price": 50,
+    "rating": 4,
+    "slotsAvailable": 2,
+    "description": "Full winter wellness check to ensure your pet is healthy and winter-ready.",
+    "image": "https://i.ibb.co.com/yckZkSrf/id4.jpg",
+    "category": "Medical"
+  },
+  {
+    "serviceId": 5,
+    "serviceName": "Fur Moisturizing Treatment",
+    "providerName": "FluffySpa",
+    "providerEmail": "support@fluffyspa.com",
+    "price": 28,
+    "rating": 5,
+    "slotsAvailable": 6,
+    "description": "Keep your pet’s coat shiny and moisturized with special winter-safe oils.",
+    "image": "https://i.ibb.co.com/Vpp5FtCh/id5.jpg",
+    "category": "Grooming"
+  },
+  {
+    "serviceId": 6,
+    "serviceName": "Pet-Friendly Winter Walk Service",
+    "providerName": "SnowPaws Agency",
+    "providerEmail": "info@snowpaws.com",
+    "price": 20,
+    "rating": 5,
+    "slotsAvailable": 8,
+    "description": "Safe, fun, and warm outdoor walks for pets with protective winter gear.",
+    "image": "https://i.ibb.co.com/VYcgbkZn/id6.jpg",
+    "category": "Outdoor"
+  },
+  {
+    "serviceId": 7,
+    "serviceName": "Nutritional Winter Diet Plan",
+    "providerName": "HealthyPets Nutrition",
+    "providerEmail": "hello@healthypets.com",
+    "price": 35,
+    "rating": 5,
+    "slotsAvailable": 5,
+    "description": "A custom diet plan designed to boost immunity and warmth during winter.",
+    "image": "https://i.ibb.co.com/60hkWFFF/id7.jpg",
+    "category": "Nutrition"
+  },
+  {
+    "serviceId": 8,
+    "serviceName": "Winter Pet Photography Session",
+    "providerName": "FurLens Studio",
+    "providerEmail": "studio@furlens.com",
+    "price": 60,
+    "rating": 5,
+    "slotsAvailable": 3,
+    "description": "Capture your pet’s cutest winter looks in a cozy, snowy-themed photoshoot.",
+    "image": "https://i.ibb.co.com/KxVLKDnJ/id8.jpg",
+    "category": "Photography"
+  },
+  {
+    "serviceId": 9,
+    "serviceName": "Snow Boot Fitting & Sale",
+    "providerName": "PetGear Hub",
+    "providerEmail": "shop@petgear.com",
+    "price": 22,
+    "rating": 4,
+    "slotsAvailable": 7,
+    "description": "Comfortable snow boots for pets to protect their paws from frostbite.",
+    "image": "https://i.ibb.co.com/3Y44Npb9/id9.jpg",
+    "category": "Clothing"
+  },
+  {
+    "serviceId": 10,
+    "serviceName": "Winter Wellness Massage",
+    "providerName": "CalmTail Spa",
+    "providerEmail": "care@calmtail.com",
+    "price": 45,
+    "rating": 4,
+    "slotsAvailable": 4,
+    "description": "Relaxing massage therapy to improve circulation and comfort during cold months.",
+    "image": "https://i.ibb.co.com/99gjvYtg/id10.jpg",
+    "category": "Therapy"
+  }
+]
