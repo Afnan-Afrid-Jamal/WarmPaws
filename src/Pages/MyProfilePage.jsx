@@ -23,7 +23,7 @@ const MyProfilePage = () => {
 
     return (
         <div className="min-h-screen flex flex-col bg-[#fdf6ec]">
-            <title>WarmPaws - My Profile</title>
+            <title>WarmPaws - Profile</title>
             <Navbar />
 
             <div data-aos="zoom-out" className="flex-grow flex items-center justify-center py-10 px-4 sm:px-6 lg:px-20">
