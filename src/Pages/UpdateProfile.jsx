@@ -15,8 +15,8 @@ const UpdateProfile = () => {
 
     const navigate = useNavigate();
 
-    const handleUpdateProfile = (e) => {
-        e.preventDefault();
+    const handleUpdateProfile = (event) => {
+        event.preventDefault();
 
         if (!auth.currentUser) {
             toast("No user found!");
