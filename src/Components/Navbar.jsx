@@ -28,9 +28,9 @@ const Navbar = () => {
                             </svg>
                         </label>
                         <ul tabIndex={0} className="menu menu-compact dropdown-content bg-base-100 rounded-box mt-3 w-52 p-2 shadow">
-                            <li><NavLink to="/home" className={({ isActive }) => isActive ? "text-[#ff6600] font-bold" : "text-gray-700"}>Home</NavLink></li>
-                            <li><NavLink to="/service" className={({ isActive }) => isActive ? "text-[#ff6600] font-bold" : "text-gray-700"}>Service</NavLink></li>
-                            <li><NavLink to="/profile" className={({ isActive }) => isActive ? "text-[#ff6600] font-bold" : "text-gray-700"}>My Profile</NavLink></li>
+                            <li><NavLink to="/home" className={({ isActive }) => isActive ? "text-[#ff7a21] font-bold" : "text-gray-700"}>Home</NavLink></li>
+                            <li><NavLink to="/service" className={({ isActive }) => isActive ? "text-[#ff7a21] font-bold" : "text-gray-700"}>Service</NavLink></li>
+                            <li><NavLink to="/profile" className={({ isActive }) => isActive ? "text-[#ff7a21] font-bold" : "text-gray-700"}>My Profile</NavLink></li>
                         </ul>
                     </div>
                     <Link to="/home">
@@ -44,17 +44,17 @@ const Navbar = () => {
                 <div className="navbar-center hidden lg:flex">
                     <ul className="flex gap-10">
                         <li>
-                            <NavLink to="/home" className={({ isActive }) => isActive ? "text-[#ff6600] font-bold" : "text-gray-700"}>
+                            <NavLink to="/home" className={({ isActive }) => isActive ? "text-[#ff7a21] font-bold" : "text-gray-700"}>
                                 Home
                             </NavLink>
                         </li>
                         <li>
-                            <NavLink to="/service" className={({ isActive }) => isActive ? "text-[#ff6600] font-bold" : "text-gray-700"}>
+                            <NavLink to="/service" className={({ isActive }) => isActive ? "text-[#ff7a21] font-bold" : "text-gray-700"}>
                                 Services
                             </NavLink>
                         </li>
                         <li>
-                            <NavLink to="/profile" className={({ isActive }) => isActive ? "text-[#ff6600] font-bold" : "text-gray-700"}>
+                            <NavLink to="/profile" className={({ isActive }) => isActive ? "text-[#ff7a21] font-bold" : "text-gray-700"}>
                                 My Profile
                             </NavLink>
                         </li>
