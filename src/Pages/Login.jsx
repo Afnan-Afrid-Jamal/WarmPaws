@@ -49,7 +49,7 @@ const Login = () => {
                 className="flex-grow flex items-center justify-center bg-base-200 px-4 sm:px-6 md:px-10 py-8"
                 style={{ backgroundImage: `url(${petBg})`, backgroundSize: 'contain', backgroundPosition: 'center' }}
             >
-                <div className="card bg-base-100 w-full max-w-md sm:max-w-lg shadow-xl rounded-lg bg-white border border-gray-200">
+                <div className="card w-full max-w-md sm:max-w-lg shadow-xl rounded-lg bg-white border border-gray-200">
                     <div className="text-center py-2 bg-black text-white rounded-t-lg">
                         <h1 className="text-2xl font-bold pt-1">Login now!</h1>
                         <p className="text-sm">Your Pets Miss You</p>
