@@ -39,7 +39,7 @@ const CustomerReview = () => {
                         />
                     </div>
                 </div>
-                <div className="chat-bubble">Excellent experience! My dog was so happy after the spa session</div>
+                <div className="chat-bubble">Excellent experience! My dog was very happy after the spa session</div>
             </div>
         </div>
     );
